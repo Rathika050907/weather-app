@@ -10,7 +10,7 @@ The Weather App is a simple web application that provides real-time weather info
 ✅ Responsive and user-friendly interface
 
 🌍 Live Demo
-🔗 Try it here: Weather App
+🔗 Try it here:https://rathika050907.github.io/weather-app/
 
 🛠 Technologies Used
 HTML – Structure of the app
